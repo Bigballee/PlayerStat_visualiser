@@ -1,0 +1,122 @@
+[
+  {
+    "Competition": "Premier League",
+    "Appearances": 254,
+    "Goals": 104,
+    "Assists": 59
+  },
+  {
+    "Competition": "UEFA Champions League",
+    "Appearances": 92,
+    "Goals": 44,
+    "Assists": 15
+  },
+  {
+    "Competition": "Ligue 1",
+    "Appearances": 80,
+    "Goals": 39,
+    "Assists": 11
+  },
+  {
+    "Competition": "Ligue 2",
+    "Appearances": 64,
+    "Goals": 12,
+    "Assists": 1
+  },
+  {
+    "Competition": "S\u00fcper Lig",
+    "Appearances": 37,
+    "Goals": 15,
+    "Assists": 10
+  },
+  {
+    "Competition": "MLS",
+    "Appearances": 33,
+    "Goals": 21,
+    "Assists": 5
+  },
+  {
+    "Competition": "FA Cup",
+    "Appearances": 29,
+    "Goals": 12,
+    "Assists": 7
+  },
+  {
+    "Competition": "USLC",
+    "Appearances": 21,
+    "Goals": 12,
+    "Assists": 4
+  },
+  {
+    "Competition": "EFL Cup",
+    "Appearances": 20,
+    "Goals": 10,
+    "Assists": 3
+  },
+  {
+    "Competition": "Super League",
+    "Appearances": 11,
+    "Goals": 8,
+    "Assists": 2
+  },
+  {
+    "Competition": "UEFA Cup",
+    "Appearances": 8,
+    "Goals": 6,
+    "Assists": 0
+  },
+  {
+    "Competition": "Coupe de la Ligue",
+    "Appearances": 8,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Competition": "Coupe de France",
+    "Appearances": 8,
+    "Goals": 7,
+    "Assists": 0
+  },
+  {
+    "Competition": "MLS Cup Playoffs",
+    "Appearances": 6,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Competition": "USLC Playoffs",
+    "Appearances": 5,
+    "Goals": 4,
+    "Assists": 1
+  },
+  {
+    "Competition": "Community Shield",
+    "Appearances": 4,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Competition": "T\u00fcrkiye Kupasi",
+    "Appearances": 3,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Competition": "Champions League Qu.",
+    "Appearances": 2,
+    "Goals": 0,
+    "Assists": 0
+  },
+  {
+    "Competition": "Canadian Championship",
+    "Appearances": 2,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Competition": "TFF S\u00fcper Kupa",
+    "Appearances": 1,
+    "Goals": 1,
+    "Assists": 0
+  }
+]
